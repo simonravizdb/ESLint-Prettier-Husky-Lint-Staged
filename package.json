@@ -1,0 +1,27 @@
+{
+  "name": "eslint-prettier-husky-lint-staged",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonravizdb/ESLint-Prettier-Husky-Lint-Staged.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonravizdb/ESLint-Prettier-Husky-Lint-Staged/issues"
+  },
+  "homepage": "https://github.com/simonravizdb/ESLint-Prettier-Husky-Lint-Staged#readme",
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "husky": "^4.3.8",
+    "lint-staged": "^13.0.3",
+    "prettier": "2.7.1"
+  }
+}
